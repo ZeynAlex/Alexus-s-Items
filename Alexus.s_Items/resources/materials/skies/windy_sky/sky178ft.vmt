@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "skies/windy_sky/sky178ft"
+	"$nofog" 1
+	"$ignorez" 1
+}
