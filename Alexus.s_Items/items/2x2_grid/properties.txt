@@ -1,0 +1,11 @@
+"Properties"
+	{
+	"Authors" "Alexus"
+	"Tags" "Geometry"
+	"Description" "2x2 tiled surface."
+	"ent_count" "0"
+	"Icon"
+		{
+		"0" "beepkg/2x2_grid.png"
+		}
+	}

@@ -1,0 +1,11 @@
+"Properties"
+	{
+	"Authors" "Alexus"
+	"Tags" "Geometry"
+	"Description" "1x4 sized line of tiles."
+	"ent_count" "0"
+	"Icon"
+		{
+		"0" "beepkg/1x4_line.png"
+		}
+	}

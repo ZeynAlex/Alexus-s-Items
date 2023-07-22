@@ -1,0 +1,47 @@
+"Item"
+	{
+	"Type" "1X4_LINE"
+	"Editor"
+		{
+		"SubTypeProperty" "CubeType"
+		"SubType"
+			{
+			"Name" "1x4 Line"
+			"Model"
+				{
+				"ModelName" "bee2_block_quarter_tile_5.3ds"
+				}
+			"Palette"
+				{
+				"Tooltip" "1x4 Line"
+				"Image" "palette/beepkg/1x4_line.png"
+				}
+			"Sounds"
+				{
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+				}
+			}
+		"MovementHandle" "HANDLE_8_POSITIONS"
+		}
+	"Properties"
+		{
+		}
+	"Exporting"
+		{
+		"Instances"
+			{
+			"0"
+				{
+				"Name" "instances/BEE2/clean/items/empty.vmf"
+				"EntityCount" "0"
+				"BrushCount" "0"
+				"BrushSideCount" "0"
+				}
+			}
+		"TargetName" "ls"
+		"Offset" "64 64 64"
+		}
+	}
