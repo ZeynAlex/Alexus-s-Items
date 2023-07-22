@@ -1,7 +1,0 @@
-LightmappedGeneric
-{
-$basetexture "signage/underground_70s_propulsion_young"
-$surfaceprop default
-$translucent 1
-$decal 1
-}
