@@ -1,0 +1,12 @@
+"Properties"
+	{
+	"Authors" "Alexus"
+	"Tags" "Geometry"
+	"Description" "When placed on a surface, that surface will display any texture you want using timer and checking/unchecking start enabled."
+	"ent_count" "0"
+	"infoURL"		"https://steamcommunity.com/sharedfiles/filedetails/?id=3035922053"
+	"Icon"
+		{
+		"0" "beepkg/2x2_grid.png"
+		}
+	}
