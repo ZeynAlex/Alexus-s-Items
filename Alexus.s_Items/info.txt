@@ -129,17 +129,6 @@
 }
 "Item"
 {
-	"ID"  "GEL_PIPE_DROPPER_BOMB_ALEXUS"
-	"Version"
-	{
-		"Styles"
-		{
-			"BEE2_CLEAN" "gel_pipe_dropper_bomb_alexus"
-		}
-	}
-}
-"Item"
-{
 	"ID"  "1X4_LINE"
 	"Version"
 	{
@@ -184,17 +173,6 @@
 		}
 	}
 }
-"Item"
-{
-	"ID"  "ASCENSION_GEL_CUBE"
-	"Version"
-	{
-		"Styles"
-		{
-			"BEE2_CLEAN" "ascension_gel_cube"
-		}
-	}
-}
 "Signage"
 	{
 	"ID" "BOTTOMLESS_PIT"
@@ -205,32 +183,6 @@
 			{
 			"icon"    "signage_overlay_bottomless_pit.png"
 			"overlay" "signage/signage_overlay_bottomless_pit"
-			}
-		}
-	}
-"Signage"
-	{
-	"ID" "WIN_SIGN"
-	"Name" "You're winner"
-	"Styles"
-		{
-		"BEE2_CLEAN"
-			{
-			"icon"    "win_sign.png"
-			"overlay" "signage/win_sign"
-			}
-		}
-	}
-"Signage"
-	{
-	"ID" "WRONG_MAT_1"
-	"Name" "Compromised Testing Site Poster"
-	"Styles"
-		{
-		"BEE2_CLEAN"
-			{
-			"icon"    "wrong_materials_1.png"
-			"overlay" "signage/wrong_materials_1"
 			}
 		}
 	}
@@ -383,19 +335,6 @@
 	"Sample"        "above_aperture/chill_in_aperture.ogg"
 	"loop_len"      "5:44"
 	"SoundScript"   "BEE2/music/above_aperture/chill01.mp3"
-	}
-"Music"
-	{
-	"ID"            "TOCCATA_AND_FUGUE_D_MINOR"
-	"Name"          "Toccata and Fugue in D-minor"
-	"Group"         "Classical Music"
-	"Icon"          "music/chill_in_aperture"
-	"IconLarge"     "music_lrg/chill_in_aperture_big"
-	"Authors"       "Johann Sebastian Bach"
-	"Description"   "Toccata and Fugue in D-minor, modern remix."
-	"Sample"        "classic/bach-toccata-and-fugue-in-d-minor-last.mp3"
-	"loop_len"      "5:44"
-	"SoundScript"   "BEE2/music/classic/bach-toccata-and-fugue-in-d-minor-last.mp3"
 	}
 "Elevator"
     {
